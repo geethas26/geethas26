@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## Unreleased
+## [v1.0.0](https://github.com/geethas26/geethas26/releases/tag/v1.0.0) - 2022-01-10 17:39:45
 
-Changes unreleased.
+This is bug fix release
 
 ### Bug Fixes
 
